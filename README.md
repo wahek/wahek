@@ -1,6 +1,8 @@
-### Python Developer  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <h3>Python Developer</h3>
+</div>
+<div align="center">
+<img src="assets/1686060701_fons-pibig-info-p-fon-piton-pinterest-38.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -23,17 +25,19 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" min-width="100%">
+<table><tr><td valign="top" width="1000px">
 
 
 
-### Backend  
+<div align="center">
+  <h3>Backend</h3>
+</div> 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="70" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin-left: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="80" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin-left: 20px; margin-bottom: 5px; margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="90" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin-bottom: 10px; margin-left: 30px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" /></a>  
 </div>
 
 </td></table>  
