@@ -41,7 +41,7 @@
 </div>
 
 </td></table>  
-<table><td valign="top" width="50%">
+<table><td valign="top" width="500px">
 
 
 
@@ -52,7 +52,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="500px">
 
 
 
