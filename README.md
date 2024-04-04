@@ -1,6 +1,4 @@
-<div align="center">
-  <h3>Python Developer</h3>
-</div>
+## <div align="center">Python Developer</div>  
 <div align="center">
 <img src="assets/1686060701_fons-pibig-info-p-fon-piton-pinterest-38.jpg" align="center" style="width: 100%" />
 </div>  
@@ -29,9 +27,7 @@
 
 
 
-<div align="center">
-  <h3>Backend</h3>
-</div> 
+### <div align="center">Backend</div>  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="70" /></a>  
@@ -45,7 +41,7 @@
 
 
 
-### Frontend  
+### <div align="center">Frontend</div>  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /></a>  
@@ -56,7 +52,7 @@
 
 
 
-### DevOps  
+### <div align="center">DevOps</div>  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
