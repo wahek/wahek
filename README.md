@@ -73,6 +73,8 @@
 ![Static Badge](https://img.shields.io/badge/figma-%231ABCFE?style=for-the-badge&logo=figma&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/java-red?style=for-the-badge&logo=spring&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/networks-%2394F3CD?style=for-the-badge&logo=internetcomputer&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Open%20AI-%23E95420?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ![Static Badge](https://img.shields.io/badge/docker-%23102041?style=for-the-badge&logo=docker)
 ![Static Badge](https://img.shields.io/badge/nginx-nginx?style=for-the-badge&logo=nginx&logoColor=%23005100)
