@@ -69,10 +69,12 @@
 ![Static Badge](https://img.shields.io/badge/redis-%23161F31?style=for-the-badge&logo=redis&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/aiohttp-%23FFFF80?style=for-the-badge&logo=aiohttp&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/aiogram-%23FF80FF?style=for-the-badge&logo=telegram)
-![Static Badge](https://img.shields.io/badge/docker-%23102041?style=for-the-badge&logo=docker)
+
 ![Static Badge](https://img.shields.io/badge/figma-%231ABCFE?style=for-the-badge&logo=figma&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/java-red?style=for-the-badge&logo=spring&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/networks-%2394F3CD?style=for-the-badge&logo=internetcomputer&logoColor=blue)
+
+![Static Badge](https://img.shields.io/badge/docker-%23102041?style=for-the-badge&logo=docker)
 ![Static Badge](https://img.shields.io/badge/nginx-nginx?style=for-the-badge&logo=nginx&logoColor=%23005100)
 ![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
