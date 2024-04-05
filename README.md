@@ -70,8 +70,8 @@
 ![Static Badge](https://img.shields.io/badge/aiohttp-%23FFFF80?style=for-the-badge&logo=aiohttp&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/aiogram-%23FF80FF?style=for-the-badge&logo=telegram)
 
-![Static Badge](https://img.shields.io/badge/figma-%231ABCFE?style=for-the-badge&logo=figma&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/jinja2-red?style=for-the-badge&logo=jinja&logoColor=white)
+![Static Badge](https://img.shields.io/badge/figma-%231ABCFE?style=for-the-badge&logo=figma&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/java-red?style=for-the-badge&logo=spring&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/networks-%2394F3CD?style=for-the-badge&logo=internetcomputer&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Open%20AI-%23000?style=for-the-badge&logo=openai&logoColor=white)
