@@ -69,7 +69,7 @@
 ![Static Badge](https://img.shields.io/badge/redis-%23161F31?style=for-the-badge&logo=redis&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/aiohttp-%23FFFF80?style=for-the-badge&logo=aiohttp&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/aiogram-%23FF80FF?style=for-the-badge&logo=telegram)
-![Static Badge](https://img.shields.io/badge/pytest-brightgreen?style=for-the-badge&logo=pytest&labelColor=firebrick&color=green)
+![Static Badge](https://img.shields.io/badge/pytest-brightgreen?style=for-the-badge&logo=pytest&logoColor=firebrick&labelColor=green)
 
 
 ![Static Badge](https://img.shields.io/badge/jinja2-red?style=for-the-badge&logo=jinja&logoColor=white)
