@@ -89,7 +89,7 @@
 
 ___
 
-> ### UnicRecipes
+> ### ![Static Badge](https://img.shields.io/badge/Unic%20Recipes-brightgreen?style=for-the-badge&color=slateblue)
 >> A website with recipes for various dishes. Customers can discover new cooking ideas, while registered users can share 
 >> their own recipes with others around the world. _The project is deployed on a physical server_. **django** **mysql** **pythonanywhere**
 >>> ->|[UnicRecipes](http://ivandevpy.pythonanywhere.com/ "Project")|<- website  
@@ -97,7 +97,7 @@ ___
 
 ___
 
-> ### Crypto Screener
+> ### ![Static Badge](https://img.shields.io/badge/Crypto%20screener-brightgreen?style=for-the-badge&color=slateblue)
 >> A project for tracking quotes of the most liquid cryptocurrencies. It provides numerical and graphical data on the 
 >> cryptocurrency in question. It also allows conversion into different fiat currencies.
 >> **FastAPI** **AIOHTTP** **Axios** **React**
