@@ -83,5 +83,26 @@
 ![Static Badge](https://img.shields.io/badge/nginx-nginx?style=for-the-badge&logo=nginx&logoColor=%23005100)
 ![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+---
 
+## My main projects
 
+___
+
+> ### UnicRecipes
+>> A website with recipes for various dishes. Customers can discover new cooking ideas, while registered users can share 
+>> their own recipes with others around the world. _The project is deployed on a physical server_. **django** **mysql** **pythonanywhere**
+>>> ->|[UnicRecipes](http://ivandevpy.pythonanywhere.com/ "Project")|<- website  
+>>> ->|[More information](https://github.com/wahek/RecipeBook/ "Code")|<- GitHub
+
+___
+
+> ### Crypto Screener
+>> A project for tracking quotes of the most liquid cryptocurrencies. It provides numerical and graphical data on the 
+>> cryptocurrency in question. It also allows conversion into different fiat currencies.
+>> **FastAPI** **AIOHTTP** **Axios** **React**
+>>> ->|[More information](https://github.com/wahek/Crypto_screener "Code")|<- GitHub
+
+___
+
+## Other projects
