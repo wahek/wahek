@@ -108,7 +108,7 @@ ___
 
 ___
 
-> ### ![Static Badge](https://img.shields.io/badge/TF%20IDF%20Levenshtain-brightgreen?style=for-the-badge&color=slateblue)
+> ### ![Static Badge](https://img.shields.io/badge/TF%20IDF%20Levenshtein-brightgreen?style=for-the-badge&color=slateblue)
 >> A project for calculating TF-IDF coefficients for a loaded text file. With support for calculating 
 >> the Levenshtein distance for words with different endings and spelling errors __FastAPI__ __Jinja2__
 >>> ->|[More information](https://github.com/wahek/tf_idf "Code")|<- GitHub
